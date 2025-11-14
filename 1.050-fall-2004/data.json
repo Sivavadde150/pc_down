@@ -1,0 +1,20 @@
+{
+  "course_title":"Solid Mechanics",
+  "course_description":"1.050 is a sophomore-level engineering mechanics course, commonly labelled \"Statics and Strength of Materials\" or \"Solid Mechanics I.\" This course introduces students to the fundamental principles and methods of structural mechanics. Topics covered include: static equilibrium, force resultants, support conditions, analysis of determinate planar structures (beams, trusses, frames), stresses and strains in structural elements, states of stress (shear, bending, torsion), statically indeterminate systems, displacements and deformations, introduction to matrix methods, elastic stability, and approximate methods. Design exercises are used to encourage creative student initiative and systems thinking.\n",
+  "site_uid":"5dbbf4a0-459a-4345-bff0-675c44708642",
+  "legacy_uid":"a7f822e2-259e-077a-9adc-e834b44d72d2","instructors": [{
+    "first_name":"Louis",
+    "last_name":"Bucciarelli",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Louis Bucciarelli"}],"department_numbers":["1"],
+  "learning_resource_types":["Simulations","Course Introduction","Activity Assignments","Problem Sets with Solutions","Design Assignments"],
+  "topics":[["Engineering","Mechanical Engineering","Solid Mechanics"],["Engineering","Aerospace Engineering","Structural Mechanics"],["Engineering","Materials Science and Engineering"]],
+  "primary_course_number":"1.050",
+  "extra_course_numbers":"",
+  "term":"Fall",
+  "year":"2004",
+  "level":["Undergraduate"],
+  "image_src":"./static_resources/4d081ba3e0fc2d081d37cad4861d70f5_1-050f04.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"Illustration of a cantilevered beam by Galileo. (Image adapted by Professor Louis Bucciarelli.)","draft":false,"file":"/courses/1-050-solid-mechanics-fall-2004/4d081ba3e0fc2d081d37cad4861d70f5_1-050f04.jpg","file_size":69782,"file_type":"image/jpeg","image_metadata":{"caption":"Illustration of a cantilevered beam by Galileo. (Image adapted by Professor Louis Bucciarelli.)","credit":"","image-alt":"A light blue banner image demonstrating a cantilevered beam.  'Engineering Mechanics of Solids -  A first course in engineering' appears as text. "},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"1-050f04.jpg","uid":"4d081ba3-e0fc-2d08-1d37-cad4861d70f5"}}
+

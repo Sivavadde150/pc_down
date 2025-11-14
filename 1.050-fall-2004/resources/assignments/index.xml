@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>There are two types of assignments from the class. They include problem sets, and design exercises. Problem sets are assigned weekly, evaluated by the professor and the teaching assistant, and returned to the student. Design exercises comprise 40% of the student&amp;rsquo;s grade. These are open-ended exercises assigned throughout the semester. Students are expected to document their work in a journal.
+week # PROBLEM SETS aND SOLUTIONS DESIGN EXERCISES 2 Problem Set 1 (PDF)</description>
+    </item>
+    
+    <item>
+      <title>class03_13.pdf</title>
+      <link>/resources/class03_13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class03_13/data.json</guid>
+      <description>This resource talks about how To develop a two-dimensional model of the truss-beam, and end-loaded as shown.</description>
+    </item>
+    
+    <item>
+      <title>class04_1.pdf</title>
+      <link>/resources/class04_1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_1/data.json</guid>
+      <description>This resource includes information on sketching the shape of the load-deflection curve.</description>
+    </item>
+    
+    <item>
+      <title>class04_10.pdf</title>
+      <link>/resources/class04_10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_10/data.json</guid>
+      <description>This resource includes execises on sketching the shear force and bending-moment diagrams for this system.</description>
+    </item>
+    
+    <item>
+      <title>class04_11.pdf</title>
+      <link>/resources/class04_11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_11/data.json</guid>
+      <description>This resource includes exercises on deriving a given equation.</description>
+    </item>
+    
+    <item>
+      <title>class04_12.pdf</title>
+      <link>/resources/class04_12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_12/data.json</guid>
+      <description>This resource includes information on developing a compatibility condition relating these two measures of deformation.</description>
+    </item>
+    
+    <item>
+      <title>class04_14.pdf</title>
+      <link>/resources/class04_14/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_14/data.json</guid>
+      <description>This resource includes exercises on finding the elements of the two columns corresponding to the displacement components.</description>
+    </item>
+    
+    <item>
+      <title>class04_15.pdf</title>
+      <link>/resources/class04_15/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_15/data.json</guid>
+      <description>This resource includes exercises to draw the mohr?s circle representing this state of strain at the point.</description>
+    </item>
+    
+    <item>
+      <title>class04_16.pdf</title>
+      <link>/resources/class04_16/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_16/data.json</guid>
+      <description>This resource exercises to fin the centroid and the moment of inertia of the crosssection?</description>
+    </item>
+    
+    <item>
+      <title>class04_17.pdf</title>
+      <link>/resources/class04_17/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_17/data.json</guid>
+      <description>This resource includes exercise to find centroid of each section, and ratio of moments of inertia.</description>
+    </item>
+    
+    <item>
+      <title>class04_18.pdf</title>
+      <link>/resources/class04_18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_18/data.json</guid>
+      <description>This resource includes exercises to estimate the shear stress acting at the intersection of the flange and the web.</description>
+    </item>
+    
+    <item>
+      <title>class04_19.pdf</title>
+      <link>/resources/class04_19/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_19/data.json</guid>
+      <description>This resource include exercises to determine the maximum normal stress due to bending, and to determine the shear stress at a point on the neutral axis.</description>
+    </item>
+    
+    <item>
+      <title>class04_2.pdf</title>
+      <link>/resources/class04_2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_2/data.json</guid>
+      <description>This resource includes exercises to show the the line of action of the reaction force acting at the pin.</description>
+    </item>
+    
+    <item>
+      <title>class04_20.pdf</title>
+      <link>/resources/class04_20/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_20/data.json</guid>
+      <description>This resource includes exercises to develop a quadratic equation for the location of the neutral axis.</description>
+    </item>
+    
+    <item>
+      <title>class04_21.pdf</title>
+      <link>/resources/class04_21/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_21/data.json</guid>
+      <description>This resource includes exercises to develop a quadratic equation for the location of the neutral axis of the composite beam.</description>
+    </item>
+    
+    <item>
+      <title>class04_22.pdf</title>
+      <link>/resources/class04_22/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_22/data.json</guid>
+      <description>This resource includes exercises to find the reactions at the three supports for the uniformly loaded beam.</description>
+    </item>
+    
+    <item>
+      <title>class04_23.pdf</title>
+      <link>/resources/class04_23/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_23/data.json</guid>
+      <description>This resource explains how to find the reactions at the wall and the stiffness matrix.</description>
+    </item>
+    
+    <item>
+      <title>class04_24.pdf</title>
+      <link>/resources/class04_24/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_24/data.json</guid>
+      <description>This resource includes a gallary of six problems drawn from past years? final exams.</description>
+    </item>
+    
+    <item>
+      <title>class04_25.pdf</title>
+      <link>/resources/class04_25/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_25/data.json</guid>
+      <description>This resource includes a collection of six problems drawn from past years? final exams.</description>
+    </item>
+    
+    <item>
+      <title>class04_26.pdf</title>
+      <link>/resources/class04_26/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_26/data.json</guid>
+      <description>This resource includes 4 problems of the same type, drawn from past years? final exams.</description>
+    </item>
+    
+    <item>
+      <title>class04_3.pdf</title>
+      <link>/resources/class04_3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_3/data.json</guid>
+      <description>This resource includes exercises to deduce the reaction forces from two requirements of static equilibrium.</description>
+    </item>
+    
+    <item>
+      <title>class04_4.pdf</title>
+      <link>/resources/class04_4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_4/data.json</guid>
+      <description>This resource includes exercises to set up the equilibrium equations whose solution will give the reaction forces.</description>
+    </item>
+    
+    <item>
+      <title>class04_4a.pdf</title>
+      <link>/resources/class04_4a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_4a/data.json</guid>
+      <description>This resource includes static equilibrium analysis of opening the umbrella.</description>
+    </item>
+    
+    <item>
+      <title>class04_5.pdf</title>
+      <link>/resources/class04_5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_5/data.json</guid>
+      <description>This resource includes exercises to write out the two requirements on the member forces in order for the point to be in static equilibrium.</description>
+    </item>
+    
+    <item>
+      <title>class04_6.pdf</title>
+      <link>/resources/class04_6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_6/data.json</guid>
+      <description>This resource includes exercises to show an equivalent system of a ?couple? and single force vector acting at a point.</description>
+    </item>
+    
+    <item>
+      <title>class04_7.pdf</title>
+      <link>/resources/class04_7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_7/data.json</guid>
+      <description>This resource includes exercises to deduce, from the geometry, an expression which will allow to compute the length.</description>
+    </item>
+    
+    <item>
+      <title>class04_8.pdf</title>
+      <link>/resources/class04_8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_8/data.json</guid>
+      <description>This resource includes exercises to determine how the internal (bending) moment, and internal (shear) force vary.</description>
+    </item>
+    
+    <item>
+      <title>class04_9.pdf</title>
+      <link>/resources/class04_9/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/class04_9/data.json</guid>
+      <description>This resource includes exercises to determine the reactions at the root, at the wall given a solid cylinder fixed to the wall.</description>
+    </item>
+    
+    <item>
+      <title>de04_1.pdf</title>
+      <link>/resources/de04_1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/de04_1/data.json</guid>
+      <description>This resource includes exercise to to design a mechanical scale for making rough measurements of the weight of passengers? checked luggage at a local airport located in West Cupcake, Nevada.</description>
+    </item>
+    
+    <item>
+      <title>de04_2.pdf</title>
+      <link>/resources/de04_2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/de04_2/data.json</guid>
+      <description>This resource includes exercises to Develop a layout of a (statically determinant) truss structure which will support the load with a factor of safety of 2.</description>
+    </item>
+    
+    <item>
+      <title>de04_3.pdf</title>
+      <link>/resources/de04_3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/de04_3/data.json</guid>
+      <description>This resource includes exercises on truss structure is needed to support a 1 kilometer stretch of roadway.</description>
+    </item>
+    
+    <item>
+      <title>de04_4.pdf</title>
+      <link>/resources/de04_4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/de04_4/data.json</guid>
+      <description>This resource includes exercises to Size the outside and inside diameters of the shaft striving to keep the volume of material a minimum.</description>
+    </item>
+    
+    <item>
+      <title>de04_5.pdf</title>
+      <link>/resources/de04_5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/de04_5/data.json</guid>
+      <description>This resource includes exercises to to do an initial sizing of the section beams and determine their number and, hence, spacing.</description>
+    </item>
+    
+    <item>
+      <title>de04_6.pdf</title>
+      <link>/resources/de04_6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/de04_6/data.json</guid>
+      <description>This resource includes exercises to design a new experiment, one which will demonstrate the effect of an axial load on the bending stiffness of a beam constrained.</description>
+    </item>
+    
+    <item>
+      <title>pset04_1.pdf</title>
+      <link>/resources/pset04_1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_1/data.json</guid>
+      <description>This resource includes a set of four problem statements.</description>
+    </item>
+    
+    <item>
+      <title>pset04_10_soln.pdf</title>
+      <link>/resources/pset04_10_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_10_soln/data.json</guid>
+      <description>This resource includes solution to the problem set 10.</description>
+    </item>
+    
+    <item>
+      <title>pset04_10.pdf</title>
+      <link>/resources/pset04_10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_10/data.json</guid>
+      <description>This resource includes a set of three problem statements.</description>
+    </item>
+    
+    <item>
+      <title>pset04_11.pdf</title>
+      <link>/resources/pset04_11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_11/data.json</guid>
+      <description>This resource includes a set of three problem statements.</description>
+    </item>
+    
+    <item>
+      <title>pset04_1soln.pdf</title>
+      <link>/resources/pset04_1soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_1soln/data.json</guid>
+      <description>This resource includes solutions to problem statement 1.</description>
+    </item>
+    
+    <item>
+      <title>pset04_2.pdf</title>
+      <link>/resources/pset04_2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_2/data.json</guid>
+      <description>This resource includes a set of four problem statements.</description>
+    </item>
+    
+    <item>
+      <title>pset04_2soln.pdf</title>
+      <link>/resources/pset04_2soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_2soln/data.json</guid>
+      <description>This resource includes solutions to problem statement 2.</description>
+    </item>
+    
+    <item>
+      <title>pset04_3.pdf</title>
+      <link>/resources/pset04_3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_3/data.json</guid>
+      <description>This resource includes a set of four problem statements.</description>
+    </item>
+    
+    <item>
+      <title>pset04_3soln.pdf</title>
+      <link>/resources/pset04_3soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_3soln/data.json</guid>
+      <description>This resource includes solutions to problem statement 3.</description>
+    </item>
+    
+    <item>
+      <title>pset04_4.pdf</title>
+      <link>/resources/pset04_4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_4/data.json</guid>
+      <description>This resource includes a set of four problem statements.</description>
+    </item>
+    
+    <item>
+      <title>pset04_4soln.pdf</title>
+      <link>/resources/pset04_4soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_4soln/data.json</guid>
+      <description>This resource includes solutions to problem statement 4.</description>
+    </item>
+    
+    <item>
+      <title>pset04_5.pdf</title>
+      <link>/resources/pset04_5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_5/data.json</guid>
+      <description>This resource includes a set of three problem statements.</description>
+    </item>
+    
+    <item>
+      <title>pset04_5soln.pdf</title>
+      <link>/resources/pset04_5soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_5soln/data.json</guid>
+      <description>This resource includes solutions to problem statement 5.</description>
+    </item>
+    
+    <item>
+      <title>pset04_6.pdf</title>
+      <link>/resources/pset04_6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_6/data.json</guid>
+      <description>This resource includes a set of four problem statements.</description>
+    </item>
+    
+    <item>
+      <title>pset04_7.pdf</title>
+      <link>/resources/pset04_7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_7/data.json</guid>
+      <description>This resource includes a set of three problem statements.</description>
+    </item>
+    
+    <item>
+      <title>pset04_7soln.pdf</title>
+      <link>/resources/pset04_7soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_7soln/data.json</guid>
+      <description>This resource includes solutions to problem statement 7.</description>
+    </item>
+    
+    <item>
+      <title>pset04_8.pdf</title>
+      <link>/resources/pset04_8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_8/data.json</guid>
+      <description>This resource includes a set of three problem statements.</description>
+    </item>
+    
+    <item>
+      <title>pset04_8soln.pdf</title>
+      <link>/resources/pset04_8soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_8soln/data.json</guid>
+      <description>This resource includes solutions to problem statement 8.</description>
+    </item>
+    
+    <item>
+      <title>pset04_9.pdf</title>
+      <link>/resources/pset04_9/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_9/data.json</guid>
+      <description>This resource includes a set of three problem statements.</description>
+    </item>
+    
+    <item>
+      <title>pset04_9soln.pdf</title>
+      <link>/resources/pset04_9soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset04_9soln/data.json</guid>
+      <description>This resource includes solutions to problem statement 9.</description>
+    </item>
+    
+    <item>
+      <title>reflectionsde041.pdf</title>
+      <link>/resources/reflectionsde041/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/reflectionsde041/data.json</guid>
+      <description>This resource includes some reflections on Design Exercise 1, a non-linear scale for weighing baggage.</description>
+    </item>
+    
+    <item>
+      <title>reflectionsde042.pdf</title>
+      <link>/resources/reflectionsde042/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/reflectionsde042/data.json</guid>
+      <description>This resource includes reflections on Design Exercise 2, a truss design with cost considerations</description>
+    </item>
+    
+    <item>
+      <title>reflectionsde044.pdf</title>
+      <link>/resources/reflectionsde044/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/reflectionsde044/data.json</guid>
+      <description>This resource includes exercise to size the outside and inside diameters of the shaft striving to keep the volume of material a minimum.</description>
+    </item>
+    
+  </channel>
+</rss>

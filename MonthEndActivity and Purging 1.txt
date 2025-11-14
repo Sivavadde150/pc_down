@@ -1,0 +1,195 @@
+Month end fileserver clearance Activity ( SBM files and MR files) ----------------------------------
+SBMUser/rapdrp123+
+login as: SBMUser
+SBMUser@10.1.2.40's password:
+Last login: Thu Jul 29 18:09:41 2021 from 10.1.45.19
+[SBMUser@blrpfilap002 ~]$ cd /filestore/FileServer/2-Processing/SBM/CUSTINFO
+[SBMUser@blrpfilap002 CUSTINFO]$ du -sh BESCOM HESCOM CESC MESCOM GESCOM
+167M BESCOM
+43M HESCOM
+29M CESC
+3.5G MESCOM
+2.6G GESCOM
+
+
+
+[SBMUser@blrpfilap002 CUSTINFO]$ cd MESCOM/
+[SBMUser@blrpfilap002 MESCOM]$ vi remove.files.old.sh
+[SBMUser@blrpfilap002 MESCOM]$ vi remove.files.old.sh
+[SBMUser@blrpfilap002 MESCOM]$ sh remove.files.old.sh
+[SBMUser@blrpfilap002 MESCOM]$ cd ../GESCOM/
+[SBMUser@blrpfilap002 GESCOM]$ vi remove.files.old.sh
+[SBMUser@blrpfilap002 GESCOM]$ vi remove.files.old.sh
+[SBMUser@blrpfilap002 GESCOM]$ vi remove.files.old.sh
+[SBMUser@blrpfilap002 GESCOM]$ cd ..
+[SBMUser@blrpfilap002 CUSTINFO]$ du -sh BESCOM HESCOM CESC MESCOM GESCOM
+167M BESCOM
+43M HESCOM
+29M CESC
+2.3G MESCOM
+319M GESCOM
+[SBMUser@blrpfilap002 CUSTINFO]$ cd ../GESCOM/
+-bash: cd: ../GESCOM/: No such file or directory
+[SBMUser@blrpfilap002 CUSTINFO]$ cd GESCOM/
+[SBMUser@blrpfilap002 GESCOM]$ sh remove.files.old.sh
+[SBMUser@blrpfilap002 GESCOM]$ cd ..
+[SBMUser@blrpfilap002 CUSTINFO]$ du -sh BESCOM HESCOM CESC MESCOM GESCOM
+703M BESCOM
+43M HESCOM
+25M CESC
+1.7G MESCOM
+29M GESCOM
+[SBMUser@blrpfilap002 CUSTINFO]$
+
+
+
+
+login as: prodccb
+prodccb@10.1.2.6's password:
+Last login: Thu Jul 29 17:49:39 2021 from 10.1.45.41
+[prodccb@blrpccbap001 ~]$ cd /IdeaInfinity_Billing/
+[prodccb@blrpccbap001 IdeaInfinity_Billing]$ sudo su
+[root@blrpccbap001 IdeaInfinity_Billing]# rm -f `find . -name '*.csv'`
+[root@blrpccbap001 IdeaInfinity_Billing]# cd ../HESCOM_TVDS/
+[root@blrpccbap001 HESCOM_TVDS]# rm -f `find . -name '*.csv'`
+[root@blrpccbap001 HESCOM_TVDS]#
+
+
+-----DC batch box CSV file backup steps
+login as: ccbbatch : CCBBatch123
+ccbbatch@10.1.2.10's password:
+Access denied
+ccbbatch@10.1.2.10's password:
+Access denied
+ccbbatch@10.1.2.10's password:
+Last login: Thu Jul 29 17:01:14 2021 from 10.1.45.52
+[ccbbatch@blrpccbbt001 ~]$ cd /spl/
+[ccbbatch@blrpccbbt001 spl]$
+[ccbbatch@blrpccbbt001 spl]$
+[ccbbatch@blrpccbbt001 spl]$ cd /spl/BATCH01/CMFileBase/ENCRYPTION/
+[ccbbatch@blrpccbbt001 ENCRYPTION]$ ls -lrt
+total 24
+drwxr-xr-x 2 ccbbatch ccbgrp 4096 Dec 9 2019 KeyFile
+drwxr-xr-x 7 ccbbatch ccbgrp 4096 Apr 5 2020 ARCHIVE
+drwxr-xr-x 2 ccbbatch ccbgrp 4096 Jan 27 2021 GESCOM
+drwxr-xr-x 2 ccbbatch ccbgrp 4096 Jul 26 07:20 BESCOM
+drwxr-xr-x 2 ccbbatch ccbgrp 4096 Jul 26 07:21 CESC
+drwxr-xr-x 2 ccbbatch ccbgrp 4096 Jul 26 07:21 HESCOM
+[ccbbatch@blrpccbbt001 ENCRYPTION]$ cd BESCOM/
+[ccbbatch@blrpccbbt001 BESCOM]$ ls
+Reading_File_BESCOM_Day27.csv
+[ccbbatch@blrpccbbt001 BESCOM]$ mv Reading_File_BESCOM_Day27.csv /spl/BATCH01/CMFileBase/ENCRYPTION/ARCHIVE/BESCOM/May2023/
+[ccbbatch@blrpccbbt001 BESCOM]$ ls
+[ccbbatch@blrpccbbt001 BESCOM]$ cd ../CESC/
+[ccbbatch@blrpccbbt001 CESC]$ ls
+Reading_File_CESC_Day27.csv
+[ccbbatch@blrpccbbt001 CESC]$ mv Reading_File_CESC_Day27.csv /spl/BATCH01/CMFileBase/ENCRYPTION/ARCHIVE/CESC/May2023/
+[ccbbatch@blrpccbbt001 CESC]$ ls
+[ccbbatch@blrpccbbt001 CESC]$ cd ../HESCOM/
+[ccbbatch@blrpccbbt001 HESCOM]$ ls
+Reading_File_HESCOM_Day27.csv
+[ccbbatch@blrpccbbt001 HESCOM]$ mv Reading_File_HESCOM_Day27.csv /spl/BATCH01/CMFileBase/ENCRYPTION/ARCHIVE/HESCOM/May2023/FileBase/ENCRYPTION/ARCHIVE/HESCOM/Jul2021
+[ccbbatch@blrpccbbt001 HESCOM]$ ls
+[ccbbatch@blrpccbbt001 HESCOM]$ cd..
+-bash: cd..: command not found
+[ccbbatch@blrpccbbt001 HESCOM]$ cd ..
+[ccbbatch@blrpccbbt001 ENCRYPTION]$ cd ARCHIVE/
+[ccbbatch@blrpccbbt001 ARCHIVE]$ ls
+BESCOM CESC GESCOM HESCOM MESCOM
+[ccbbatch@blrpccbbt001 ARCHIVE]$ cd BESCOM/
+[ccbbatch@blrpccbbt001 BESCOM]$ ls
+Jul2021 Jun2021 May2021
+[ccbbatch@blrpccbbt001 BESCOM]$ rm -rf May2021
+[ccbbatch@blrpccbbt001 BESCOM]$ ls
+Jul2021 Jun2021
+[ccbbatch@blrpccbbt001 BESCOM]$ mkdir Aug2021
+[ccbbatch@blrpccbbt001 BESCOM]$ ls
+Aug2021 Jul2021 Jun2021
+[ccbbatch@blrpccbbt001 BESCOM]$ cd ../CESC/
+[ccbbatch@blrpccbbt001 CESC]$ ls
+Jul2021 Jun2021 May2021
+[ccbbatch@blrpccbbt001 CESC]$ rm -rf May2021
+[ccbbatch@blrpccbbt001 CESC]$ ls
+Jul2021 Jun2021
+[ccbbatch@blrpccbbt001 CESC]$ mkdir Aug2021
+[ccbbatch@blrpccbbt001 CESC]$ ls
+Aug2021 Jul2021 Jun2021
+[ccbbatch@blrpccbbt001 CESC]$ cd ../HESCOM/
+[ccbbatch@blrpccbbt001 HESCOM]$ ls
+Jul2021 Jun2021 May2021
+[ccbbatch@blrpccbbt001 HESCOM]$ rm -rf May2021
+[ccbbatch@blrpccbbt001 HESCOM]$ ls
+Jul2021 Jun2021
+[ccbbatch@blrpccbbt001 HESCOM]$ mkdir Aug2021
+[ccbbatch@blrpccbbt001 HESCOM]$ ls
+Aug2021 Jul2021 Jun2021
+[ccbbatch@blrpccbbt001 HESCOM]$ ls
+Aug2021 Jul2021 Jun2021
+[ccbbatch@blrpccbbt001 HESCOM]$
+
+
+) first make the ticket of the same for refernce : IM3236968
+b) send the mail to dba team they do backup 
+c) now submit the batch 
+d) two times activity 15th and 30th of every month
+
+ 
+
+SR # IM3236968 raised to take the backup of staging tables related to payments. PFB details .
+
+ 
+
+PURGING Every month 15th & 30th 
+
+ 
+
+submitjob.sh -b PYUP-PRG -c 16 -x NO-OF-DAYS=10 -p APPBATCH01PAYMENTPOOL 2>&1 >> /dev/null & 
+
+ 
+
+Calendar Date Activity Date Activity Name Start Time End Time Record Count
+Morning 20-Jan-22 20-Jan-22 PYUP-PRG 12:47 PM 1:00 PM 17420
+
+ 
+
+
+Take back up of below mentioned tables in CCB production data base as we are planning to run purging job. Once the backup tables are created, make these back up tables present in replica data base also to check for any old dated payments and provide the read access to MIS_USER1 and KESPRBCH users in replica database.
+
+
+
+1). CI_PAY_TNDR_ST - the back up of this table should be taken as: CI_PAY_TNDR_ST_July2022_2(2 or 1 is backup)
+
+
+
+2). CI_TNDR_CTL_ST - the back up of this table should be taken as: CI_TNDR_CTL_ST_July2022_2
+
+
+
+3). CI_DEP_CTL_ST - the back up of this table should be taken as: CI_DEP_CTL_ST_July2022_2
+
+
+
+4). CI_PAY_ST - the back up of this table should be taken as: CI_PAY_ST_July2022_2
+
+
+
+
+to verify the data check this count
+
+
+
+select count(1) from KESPRADM.CI_PAY_TNDR_ST_July2022_2;
+select count(1) from KESPRADM.CI_TNDR_CTL_ST_July2022_2;
+select count(1) from KESPRADM.CI_DEP_CTL_ST_July2022_2;
+select count(1) from KESPRADM.CI_PAY_ST_July2022_2;
+
+
+
+select count(1) from KESPRADM.CI_PAY_TNDR_ST;
+select count(1) from KESPRADM.CI_TNDR_CTL_ST;
+select count(1) from KESPRADM.CI_DEP_CTL_ST;
+select count(1) from KESPRADM.CI_PAY_ST;
+
+
+
+both count should be same to verify that backup is done properly

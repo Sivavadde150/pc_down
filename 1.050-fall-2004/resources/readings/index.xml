@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on MIT OpenCourseWare</title>
+    <link>/resources/readings/</link>
+    <description>Recent content in Readings on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/readings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>emech1_04.pdf</title>
+      <link>/resources/emech1_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/emech1_04/data.json</guid>
+      <description>This resource contains the information on what the book is about, what it contains, and resources that might be used.</description>
+    </item>
+    
+    <item>
+      <title>emech10_04.pdf</title>
+      <link>/resources/emech10_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/emech10_04/data.json</guid>
+      <description>This resource contains information on the moment/curvature relation, buckling of beams, Matrix Analysis of Frame Structures, Energy Methods, and Problems.</description>
+    </item>
+    
+    <item>
+      <title>emech2_04.pdf</title>
+      <link>/resources/emech2_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/emech2_04/data.json</guid>
+      <description>This resource includes information on concept of force, concept of moment, and problems.</description>
+    </item>
+    
+    <item>
+      <title>emech3_04.pdf</title>
+      <link>/resources/emech3_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/emech3_04/data.json</guid>
+      <description>This resource includes informations on internal forces in members of a truss structure, internal forces and moments in beams, and internal moments in shafts in torsion.</description>
+    </item>
+    
+    <item>
+      <title>emech4_04.pdf</title>
+      <link>/resources/emech4_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/emech4_04/data.json</guid>
+      <description>This resource includes information on stress: the creature and its components, the variation of stress (components) in a continuum, and problems.</description>
+    </item>
+    
+    <item>
+      <title>emech5_04.pdf</title>
+      <link>/resources/emech5_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/emech5_04/data.json</guid>
+      <description>This resource includes informations on resolving indeterminacy, matrix analysis of truss structures, design exercise, and problems.</description>
+    </item>
+    
+    <item>
+      <title>emech6_04.pdf</title>
+      <link>/resources/emech6_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/emech6_04/data.json</guid>
+      <description>This resource includes information on strain: the creature and its components, transformation of components of strain, Mohr?s circle, and problems.</description>
+    </item>
+    
+    <item>
+      <title>emech7_04.pdf</title>
+      <link>/resources/emech7_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/emech7_04/data.json</guid>
+      <description>This resource includes information on stress/strain relations, properties of ordinary structural materials, table of material properties, failure phenomena, and problems.</description>
+    </item>
+    
+    <item>
+      <title>emech8_04.pdf</title>
+      <link>/resources/emech8_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/emech8_04/data.json</guid>
+      <description>This resource includes information on an introductory exercise, compatibility of deformation, constitutive relations, the torque-rotation stiffness equation, torsion of other than circular shafts, and problems.</description>
+    </item>
+    
+    <item>
+      <title>emech9_04.pdf</title>
+      <link>/resources/emech9_04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/emech9_04/data.json</guid>
+      <description>This resource includes information on compatibility of deformation, constitutive relations, the moment/curvature relation, stresses within a composite beam, and shear stresses in beams.</description>
+    </item>
+    
+    <item>
+      <title>Readings</title>
+      <link>/pages/readings/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/readings/data.json</guid>
+      <description>This course&amp;rsquo;s required textbook is Engineering Mechanics for Structures, written by Professor Louis Bucciarelli in 2002. This section contains links to full text versions of the book chapters.
+Book Chapters Chapter 1 - Introduction (PDF) Chapter 2 - Static Equilibrium Force and Moment (PDF) Chapter 3 - Internal Forces and Moments (PDF) Chapter 4 - Stress (PDF) Chapter 5 - Indeterminate Systems (PDF) Chapter 6 - Strain (PDF) Chapter 7 - Material Properties and Failure Phenomena (PDF) Chapter 8 - Stresses/Deflections Shafts in Torsion (PDF) Chapter 9 - Stresses: Beams in Bending (PDF) Chapter 10 - Deflections Due to Bending (PDF) week # ses # Topics readings Week 1 Lec 1 Introduction 1.</description>
+    </item>
+    
+  </channel>
+</rss>

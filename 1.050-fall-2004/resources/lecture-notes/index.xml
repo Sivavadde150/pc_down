@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>Each lecture includes a series of in class exercises that address the topic of the day. Those are included here.
+week # ses # Topics IN CLASS EXERCISES Week 1 Lec 1 Introduction In Class Exercise 1 (PDF) Lab 0 Use of Spreadsheet Lec 2 Concept of Force In Class Exercise 2 (PDF) Week 2 Lec 3 Concept of Moment In Class Exercise 3 (PDF) Lab 1 Lec 4 Static Equilibrium Requirements In Class Exercise 4 (PDF)</description>
+    </item>
+    
+  </channel>
+</rss>
